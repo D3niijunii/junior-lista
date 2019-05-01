@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="pt">DISNEY JUNIOR</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Record Tv">
+    <display-name lang="pt">Record Tv</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Discovery Home Health">
+    <display-name lang="pt">Discovery Home Health</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20190501000000 +0100" stop="20190501235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190502000000 +0100" stop="20190502235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190503000000 +0100" stop="20190503235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190504000000 +0100" stop="20190504235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190505000000 +0100" stop="20190505235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190506000000 +0100" stop="20190506235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190507000000 +0100" stop="20190507235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+</tv>
